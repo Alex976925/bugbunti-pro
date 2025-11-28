@@ -75,7 +75,8 @@ nuclei (última versión)
 
 🔹 1. Clonar el repositorio
 
-git clone https://github.com/TU-USUARIO/bugbunti-pro.git
+git clone ​https://github.com/Alex976925/bugbunti-pro.git
+
 cd bugbunti-pro
 
 🔹 2. Dar permisos de ejecución
